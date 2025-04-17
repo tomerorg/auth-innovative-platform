@@ -1,0 +1,13 @@
+{
+  "name": "auth-innovative-platform",
+  "version": "1.0.0",
+  "description": "Experimental auth project using TypeScript and Express in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
